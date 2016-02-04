@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="search">Search for tweets</string>
+    <string name="search_title">Tweets</string>
+</resources>
